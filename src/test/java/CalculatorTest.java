@@ -26,7 +26,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void testAdd_ajouter1StringAvec2ValeurDoitRetournerLeursSomme() {
+    public void testAdd_ajouter1StringAvec2ValeursDoitRetournerLeurSomme() {
         //GIVEN
         //WHEN
         int val = calculator.add("1,2");
