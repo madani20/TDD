@@ -13,7 +13,4 @@ public class FizzBuzz {
         }
         return num;
     }
-    private boolean contient(String str){
-        return str.contains(str);
-    }
-}
+   }
